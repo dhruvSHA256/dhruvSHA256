@@ -1,4 +1,4 @@
-## Hola, I'm DHruv
+## Namaste 🙏 I'm DHruv
 
 # 💫About Me :
 - 🌱 I’m currently learning more about MERN.
