@@ -1,5 +1,13 @@
 ## Namaste 🙏 I'm DHruv
 
+<div align="center">
+	<img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/multi-screen.gif"/>
+</div>
+
+![About Me](https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/multi-screen.gif)
+
+
+
 # 💫About Me :
 - 🌱 I’m currently learning more about MERN.
 - 🤔 I’m looking for internship
