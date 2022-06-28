@@ -4,6 +4,8 @@
 	<img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/multi-screen.gif"/>
 </div>
 
+<br/>
+
 # 💫 About Me :
 - 🌱 I’m currently learning more about MERN.
 - 🤔 I’m looking for internship
