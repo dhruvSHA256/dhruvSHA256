@@ -1,4 +1,4 @@
-## Namaste 🙏 I'm Dhruv
+## Namaste 🙏 I'm Dhruv ध्रुव 
 
 <div align="center">
 	<img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/multi-screen.gif"/>
