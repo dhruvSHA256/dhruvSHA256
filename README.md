@@ -4,7 +4,7 @@
 	<img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/multi-screen.gif"/>
 </div>
 
-# 💫About Me :
+# 💫 About Me :
 - 🌱 I’m currently learning more about MERN.
 - 🤔 I’m looking for internship
 - 💬 Ask me about Linux or any tech-related stuff.
@@ -14,7 +14,7 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/dhruvsha256/)
 - ⚡ Fun fact: I love to play chess 
 
-# 💻Tech Stack
+# 💻 Tech Stack
 ![Cpp](https://img.shields.io/badge/cpp-%23000000.svg?style=for-the-badge&logo=cpp&logoColor=white)
 ![Unix](https://img.shields.io/badge/unix-%23000000.svg?style=for-the-badge&logo=unix&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
