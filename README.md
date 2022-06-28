@@ -8,8 +8,7 @@
 - 🌱 I’m currently learning more about MERN.
 - 🤔 I’m looking for internship
 - ❤️ I like reading Philosophy
-- 💬 Ask me about Linux or any tech-related stuff.
-- ⚡ Fun fact: I love to play chess 
+
 
 # 📫 Find Me Online: 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-sha256/)
