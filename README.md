@@ -58,6 +58,12 @@
 
 <br/>
 
+## 📕  Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br/>
+
 ## 📈 Stats
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=dhruvsha256&show_icons=true&theme=highcontrast" />
