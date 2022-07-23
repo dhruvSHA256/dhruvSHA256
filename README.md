@@ -70,6 +70,32 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvsha256&theme=highcontrast" />
 </p>
 
+## 🔐 GPG Key
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: BB3C 7757 6DEC DB10 A35A  7AFF 123C BC29 EDE4 58C7
+Comment: Dhruv Sharma <dhruv.sha256@gmail.com>
+
+xjMEYaZrhRYJKwYBBAHaRw8BAQdAFZlOBpY0e557hrtNCC2rUxbaT4GM/FFn8m6e
+R62gfBbNNERocnV2IFNoYXJtYSAoWW8gaXRzIGRocnV2KSA8ZGhydXYuc2hhMjU2
+QGdtYWlsLmNvbT7ClgQTFggAPhYhBLs8d1dt7NsQo1p6/xI8vCnt5FjHBQJhpmuF
+AhsDBQkDwmcABQsJCAcCBhUKCQgLAgQWAgMBAh4BAheAAAoJEBI8vCnt5FjHilUA
+/1rmW+IgzorXRvmJp2tEAYT/kvDwKWA8ItB7hsTnw1H+AP0VqRrsUFgw5fDl/+tM
+F2uTrvAO2FQPzVNYrKZnPjopCs4zBGGmbCIWCSsGAQQB2kcPAQEHQNCQoC0TFqf3
+OxqrvfT+5F3ABjUJlujevwkzRpqE2cNhwsA1BBgWCAAmFiEEuzx3V23s2xCjWnr/
+Ejy8Ke3kWMcFAmGmbCICGyIFCQPCZwAAgQkQEjy8Ke3kWMd2IAQZFggAHRYhBIe+
+2esRyc9s4l1leJyTdYVh+n/yBQJhpmwiAAoJEJyTdYVh+n/y3XIA/0wZwEYLtAgf
+K+4tM4UejXv/xi49uJaoiKkqxLBy9r67AP9FAXa7tiwFTiWBkVqgF9BW2mpzhQDL
+ZYJbPj+Wch0xCVmZAP973oAa75/vWI6JdjNo15Y+UKOxKV358gItw0Tum9VD4AEA
+2KbKpM9KUTjYdw6s2Bs/qZ/0Y26Qg1Cau9p7/+sS4QbOOARhpmuFEgorBgEEAZdV
+AQUBAQdA8HvBA4mNuUsYxwSHCQScopYlUDorB2SEUjx7Nka+EE4DAQgHwn4EGBYI
+ACYWIQS7PHdXbezbEKNaev8SPLwp7eRYxwUCYaZrhQIbDAUJA8JnAAAKCRASPLwp
+7eRYx4V0AP92Zg6UXNdfajg9RONFPRpa53f33YefqRnsWCyF2G7M0AD+JCaArN+2
+pMzg+rONJHPof4oOjCDtxgM18GcpoqL9lAc=
+=YUzC
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
 <div align="center">
  Show some ❤️ by starring some of the repositories!
 </div>
