@@ -61,6 +61,7 @@
 
 ## 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Happiness](https://dhruvsha256.github.io/posts/2022/08/happiness/)
 - [Car Radio - Twenty One Pilots](https://dhruvsha256.github.io/posts/2022/08/car-radio-twenty-one-pilots/)
 - [Map, Filter, Reduce in python](https://dhruvsha256.github.io/posts/2022/07/map-filter-reduce-in-python/)
 - [Absurdism Extentialism Nihilism](https://dhruvsha256.github.io/posts/2022/07/absurdism-extentialism-nihilism/)
