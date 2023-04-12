@@ -23,6 +23,7 @@
 - [Absurdism Extentialism Nihilism](https://dhruvsha256.github.io/posts/2022/07/absurdism-extentialism-nihilism/)
 <!-- BLOG-POST-LIST:END -->
 
+## [Resume](https://dhruvsha256.github.io/resume)
 
 ## [GPG Key](https://github.com/dhruvSHA256.gpg)
 ```
