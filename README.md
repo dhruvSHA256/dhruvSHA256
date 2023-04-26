@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Dhruv! 👋</h1>
-<p align="center">I work on backend at Primenumber technologies</p>
+<p align="center">I work on backend at Primenumber technologies </p>
 
 ## Tech Stack
 <p align="center">
