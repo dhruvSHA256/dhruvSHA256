@@ -8,11 +8,6 @@
   </a>
 </p>
 
-## Github Stats
-<p align="center"><a href="#">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhruvsha256&theme=onedark&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d1117" alt="Github stats" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhruvsha256&layout=compact&theme=onedark&count_private=true&hide_border=true&bg_color=0d1117" alt="Top Langs">
-</a></p>
 
 ## Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
