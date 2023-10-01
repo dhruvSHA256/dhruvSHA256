@@ -4,7 +4,7 @@
 ## Tech Stack
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,postgresql,mongodb,aws,kubernetes,docker,linux,haskell" alt="python,django,flask,nodejs,postgresql,mongodb,aws,kubernetes,docker,linux,haskell" />
+    <img src="https://skillicons.dev/icons?i=python,django,flask,javascript,nodejs,haskell,postgresql,mongodb,linux,aws,kubernetes,docker,jenkins" alt="python,django,flask,javascript,nodejs,haskell,postgresql,mongodb,linux,aws,kubernetes,docker,jenkins" />
   </a>
 </p>
 
