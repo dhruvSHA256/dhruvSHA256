@@ -11,11 +11,11 @@
 
 ## Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Layer 4 Load balancer from scratch in Python](https://dhruvsha256.github.io/posts/2023/11/layer-4-load-balancer-from-scratch-in-python/)
-- [Solid Principles in Python](https://dhruvsha256.github.io/posts/2023/05/solid-principles-in-python/)
-- [Postgresql Indexes](https://dhruvsha256.github.io/posts/2022/12/postgresql-indexes/)
-- [Happiness](https://dhruvsha256.github.io/posts/2022/08/happiness/)
-- [Car Radio - Twenty One Pilots](https://dhruvsha256.github.io/posts/2022/08/car-radio-twenty-one-pilots/)
+- [Layer 4 Load balancer from scratch in Python](https://dhruvsha256.github.io/blog/load-balancer-python/)
+- [Solid Principles in Python](https://dhruvsha256.github.io/blog/solid-principles/)
+- [Postgresql Indexes](https://dhruvsha256.github.io/blog/postgresql-indexes/)
+- [Happiness](https://dhruvsha256.github.io/blog/happiness/)
+- [Car Radio - Twenty One Pilots](https://dhruvsha256.github.io/blog/car-radio-by-top/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [Resume](https://dhruvsha256.github.io/resume)
