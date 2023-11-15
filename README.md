@@ -18,7 +18,7 @@
 - [Car Radio - Twenty One Pilots](https://dhruv.fyi/posts/car-radio-by-top/)
 <!-- BLOG-POST-LIST:END -->
 
-## [Resume](https://dhruvsha256.github.io/resume)
+## [Resume](https://dhruv.fyi/resume)
 
 ## [GPG Key](https://github.com/dhruvSHA256.gpg)
 ```
