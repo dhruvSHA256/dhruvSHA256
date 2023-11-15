@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Dhruv! 👋</h1>
+<h1 align="center">Hi there, I'm Dhruv! </h1>
 <p align="center">I work at Juspay </p>
 
 ## Tech Stack
