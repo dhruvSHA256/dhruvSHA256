@@ -11,11 +11,11 @@
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Network Load balancer from scratch in Python](https://dhruv.fyi/posts/load-balancer-python/)
-- [Solid Principles in Python](https://dhruv.fyi/posts/solid-principles/)
-- [Postgresql Indexes](https://dhruv.fyi/posts/postgresql-indexes/)
-- [Happiness](https://dhruv.fyi/posts/happiness/)
-- [Car Radio - Twenty One Pilots](https://dhruv.fyi/posts/car-radio-by-top/)
+- [Network Load balancer from scratch in Python](https://dhruv.fyi/blog/load-balancer-python/)
+- [Solid Principles in Python](https://dhruv.fyi/blog/solid-principles/)
+- [Postgresql Indexes](https://dhruv.fyi/blog/postgresql-indexes/)
+- [Happiness](https://dhruv.fyi/blog/happiness/)
+- [Car Radio - Twenty One Pilots](https://dhruv.fyi/blog/car-radio-by-top/)
 <!-- BLOG-POST-LIST:END -->
 
 ### [Resume](https://dhruv.fyi/resume)
