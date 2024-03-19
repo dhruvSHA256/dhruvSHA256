@@ -11,11 +11,11 @@
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Writing a Dns Resolver from scratch in Haskell](https://dhruv.fyi/blog/dns-resolver-from-scratch-in-haskell/)
 - [Network Load balancer from scratch in Python](https://dhruv.fyi/blog/load-balancer-python/)
 - [Solid Principles in Python](https://dhruv.fyi/blog/solid-principles/)
 - [Postgresql Indexes](https://dhruv.fyi/blog/postgresql-indexes/)
 - [On God](https://dhruv.fyi/private/on-god/)
-- [Happiness](https://dhruv.fyi/blog/happiness/)
 <!-- BLOG-POST-LIST:END -->
 
 ### [Resume](https://dhruv.fyi/resume)
