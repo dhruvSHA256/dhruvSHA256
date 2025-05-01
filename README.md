@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm Dhruv </h1>
-<p align="center">I am a backend develope, currently working at Juspay </p>
+<p align="center">I am a backend develope, currently working at Goldman Sachs.</p>
 
 ### Tech Stack
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=go,python,django,flask,javascript,nodejs,haskell,postgresql,mongodb,linux,aws,kubernetes,docker,jenkins"/>
+    <img src="https://skillicons.dev/icons?i=go,python,fastapi,postgresql,linux,aws,kubernetes,docker,jenkins"/>
   </a>
 </p>
 
